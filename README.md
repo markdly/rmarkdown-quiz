@@ -3,7 +3,7 @@ Random notes related to generating lightweight quiz questions using Rmarkdown
 
 These are some random thoughts related to the generation of assessments / quizzes using r-markdown.  In particular I am looking for solutions which can be hosted as a static site (i.e. solutions that **don't** require shiny etc).
 
-Prompted to open this after seeing https://twitter.com/MattCrump_/status/1022457536740577287. 
+Prompted to open this after seeing https://twitter.com/MattCrump_/status/1022457536740577287. Which has since progressed to a [working example](https://crumplab.github.io/Blog.html#adding_quizzes_to_static_r_markdown_websites)
 
 rmarkdown can be used to produce [slidy presentations](https://bookdown.org/yihui/rmarkdown/slidy-presentation.html) which can be used to generate quizzes as shown in [this example](http://slidify.github.io/iquiz/)
 
